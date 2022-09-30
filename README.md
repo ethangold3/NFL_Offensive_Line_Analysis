@@ -1,1 +1,2 @@
 # NFL_Offensive_Line_Analysis
+The NFL_cap dataset includes the wins, vegas_win_total, and the percentages of spending by position for each nfl team from 2021-2016. I was attempting to test a hypothesis that either teams that spend more on their offensive line win more games, or they outperform their vegas projection. Both of these hypothesis turned out to be false. However, it was still an interesting look at how teams choose to spend their money positionally.
